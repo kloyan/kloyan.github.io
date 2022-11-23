@@ -1,0 +1,11 @@
+links:
+- title: Posts
+  url: /
+- title: About
+  url: /about
+- title: Search
+  url: /search
+- title: GitHub
+  url: https://github.com/kloyan
+- title: RSS
+  url: /atom.xml
